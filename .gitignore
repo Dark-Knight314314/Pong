@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+*.tlog
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+Pong/
+.vs/
+
+# SFML specific (if you copied DLLs locally, keep one copy)
+*.dll  # uncomment if you want to ignore all DLLs
